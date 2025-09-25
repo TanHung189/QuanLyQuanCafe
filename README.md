@@ -1,7 +1,5 @@
 # QuanLyQuanCafe
- Coffee Shop Management System built with .NET MVC
-
-## Đồ án môn học xây dựng phần mềm quản lý quán cafe
+ Đồ án môn học xây dựng phần mềm quản lý quán cafe - Coffee Shop Management System built with .NET MVC
 
 ## Thông tin môn học
 
@@ -37,4 +35,51 @@
 -	Sao lưu và phục hồi dữ liệu đảm bảo an toàn thông tin.
 
 ## Thiết kế giao diện
-![Form load](Image/Form_Load)
+![Form_Home](Image/Form_Home.jpg)
+<p align="center">
+  <img src="Image/Form_Load.png" width="300"/>
+  
+  <img src="Image/Form_DangNhap.png" width="300"/>
+  <img src="Image/Form_BanHang.png" width="300"/>
+</p>
+
+<p align="center">
+  
+ <img src="Image/QuanLyNhanVien.png" width="300"/>
+   <img src="Image/QuanLyTaiKhoan.png" width="300"/>
+  <img src="Image/QuanLyThucDon.png" width="300"/>
+</p>
+
+<p align="center">
+  <img src="Image/Form_ThanhToan.png" width="300"/>
+  <img src="Image/ThongTinCuaHang.png" width="300"/>
+   <img src="Image/ThongTinCuaHang.png" width="300"/>
+</p>
+
+## Thông tin kỹ thuật
+Máy chủ / Hệ quản trị CSDL:
+
+- Microsoft SQL Server 2019
+- SQL Server Management Studio (SSMS)
+
+Ngôn ngữ lập trình:
+- C# (.NET Framework)
+- SQL (T-SQL)
+
+Công nghệ:
+- Windows Forms (.NET Framework)
+- ADO.NET (kết nối và thao tác cơ sở dữ liệu)
+
+Mô hình phân lớp:
+- Presentation Layer (WinForms UI)
+- Business Logic Layer (Class Library)
+- Data Access Layer (Class Library, ADO.NET)
+
+Thư viện:
+- System.Data.SqlClient (ADO.NET)
+- Các thư viện mặc định trong .NET Framework
+
+Công cụ:
+- Visual Studio 2019 / 2022
+- SQL Server Management Studio (SSMS)
+- Git / GitHub (quản lý mã nguồn)
