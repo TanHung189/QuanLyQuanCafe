@@ -38,7 +38,6 @@
 ![Form_Home](Image/Form_Home.jpg)
 <p align="center">
   <img src="Image/Form_Load.png" width="300"/>
-  
   <img src="Image/Form_DangNhap.png" width="300"/>
   <img src="Image/Form_BanHang.png" width="300"/>
 </p>
@@ -47,11 +46,16 @@
   
  <img src="Image/QuanLyNhanVien.png" width="300"/>
    <img src="Image/QuanLyTaiKhoan.png" width="300"/>
-  <img src="Image/QuanLyThucDon.png" width="300"/>
+ 
 </p>
 
 <p align="center">
-  <img src="Image/Form_ThanhToan.png" width="300"/>
+   <img src="Image/QuanLyThucDon.png" width="300"/>
+ <img src="Image/Form_ThanhToan.png" width="300"/>
+</p>
+
+<p align="center">
+  
   <img src="Image/ThongTinCuaHang.png" width="300"/>
    <img src="Image/ThongTinCuaHang.png" width="300"/>
 </p>
