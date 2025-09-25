@@ -1,6 +1,5 @@
 # QuanLyQuanCafe
 Coffee Shop Management System built with .NET MVC
-
 --
 
 # Đồ án môn học xây dựng phần mềm quản lý quán cafe
